@@ -1,6 +1,8 @@
 {
-  "version": "4.0.0.1",
-  "url": "https://github.com/ossaamamahmoud/UPVC-Updater/releases/download/V4.0.0/UPVC-V4.0.0-Release.zip",
+  "version": "1.0.0.0",
+  "url": "https://github.com/ossaamamahmoud/UPVC-Updater/releases/download/V1.0.0/UPVC-V1.0.0-Release.zip",
+  "sha256": "A37518082599915EF98E8990E3BFBAF72159B22B5D651C8DE811786176017E2B",
+  "signature": "",
   "critical": false,
-  "release_date": "2026-03-28"
+  "release_date": "2026-07-16"
 }
