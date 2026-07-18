@@ -1,8 +1,8 @@
 {
   "version": "2.0.0.0",
   "url": "https://github.com/ossaamamahmoud/UPVC-Updater/releases/download/V2.0.0/UPVC-V2.0.0-Release.zip",
-  "sha256": "00931E496E4D7793AE77E7643A5119021760A1D2A0E4FFD5F6B5BC466D90A7C0",
-  "signature": "KrxYq065bF9hXckSa5tBhruV5L2pT3n6MjWtUaShqOeOJ0EcWUhO1eGSbPmXSOCytORTiqlGHLNjDFPdcsMa8eBZnwDKF+sSP1ZbImlZ1V2P59uCTIana4s7Y0NaVv5QuWY0w/1yAOGVmckCIits/cd/JUoSOZwEoGJk46QvdkYLWnYnxg04t+2QnHgWy0P4JODlsczjjfTjXDY0rw7HJM2no22TpwEfJphyDlyYMVhAR8BFcfVwA0Gf/CUXXw18Lf5/nf7xMl66Hv+7Yy6AYEG8fyV5475mXJxJ0TQnrZBFwqjtXKISFyo11TZepJu1177OO8ZqLA5kmHW9IWkIJA==",
-  "critical": false,
-  "release_date": "2026-07-18"
+  "sha256": "0D7D53E9FAC62030FF5E4CD6A710BDCF1315816560102566E6E78A5BDDADB4B6",
+  "signature": "LMnNdm6+Ixrrfv0vHn/B5IT9sravSkSyXnJ2byk0SXkYHmsyOXIMwcevZwDg9NiDp82lDtUHtq8KwEJJoXB2QanuUYNS4h9uUTJ7oZ+c6dHeUI9B5f/WnuLcuWvYkt9lc+HH89peYKw8313rvU5TC6aBjckv7ZSl+BBL2h0e8IzUlC6xWPscv/DQEEWKLsecapnx9cXk1ZN2OUpLUVWhV4UsnXFsPo2vsvZY2kephx9DL81PXcRccdSbq7ndVvmeh5TqcjwLda94zibvfE2uQl8qDrClXCMUA2SsZCcbT5jnHE2FTtuTQAxatmWR25dSUxl+bVPhQjNYylrbPqtbwA==",
+  "critical": true,
+  "release_date": "2026-07-19"
 }
